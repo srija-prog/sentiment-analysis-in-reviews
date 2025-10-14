@@ -31,8 +31,4 @@ This project demonstrates an end-to-end Machine Learning workflow:
 
 ## **Installation**
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/sentiment_analysis.git
-cd sentiment_analysis
