@@ -27,8 +27,6 @@ This project demonstrates an end-to-end Machine Learning workflow:
 - `review` – Text of the movie review.  
 - `sentiment` – Sentiment label (`positive` / `negative`).
 
----
-
-## **Installation**
+---
 
 
